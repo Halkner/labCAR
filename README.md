@@ -61,4 +61,4 @@ $ npm run test:cov
 ## Stay in touch
 
 - [Linkedin](https://www.linkedin.com/in/matheus-adriano-martins-665b78183/)
-- [Instagram] - [https://nestjs.com](https://instagram.com/math.adr?igshid=YmMyMTA2M2Y=)
+- [Instagram](https://instagram.com/math.adr?igshid=YmMyMTA2M2Y=)
